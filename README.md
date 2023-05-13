@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quarterRyan
-- 👀 I’m interested in indy game development in Unity and app development in Flutter
-- 🌱 I’m currently learning unity and flutter
+- 👀 I’m interested in indy game development in Unity and web development in React, c#
+- 🌱 I’m currently learning unity and react
 - 📫 How to reach me quarter.machines.co@gmail.com
 
 <!---
